@@ -1,5 +1,3 @@
-# PredictBotnet
-
 # PredictBotnet 📡🔍
 
 PredictBotnet is a project aimed at analyzing network traffic patterns to predict potential cyber-attacks, specifically botnets. This project leverages existing datasets containing historical network traffic and attack logs to identify patterns and anomalies associated with cyber threats, helping in early detection and prevention. We use data science techniques we learned from the CSUF CIC|PCUBED Research Summer Opportunity to model and train the datasets, ensuring accurate and efficient prediction of botnet attacks.
